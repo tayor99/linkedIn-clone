@@ -29,7 +29,7 @@ function Header() {
         <HeaderOption Icon={NotificationsIcon} title="Notification" />
         <HeaderOption
           avatar="https://pbs.twimg.com/profile_images/1528624295479595010/SwapSZK9_400x400.jpg"
-          title="meee"
+          title="Foolish me"
         />
       </div>
     </div>
