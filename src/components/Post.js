@@ -5,6 +5,8 @@ import ThumbUpAltOutlinedIcon from '@material-ui/icons/ThumbUpAltOutlined';
 import CommentOutlinedIcon from '@material-ui/icons/CommentOutlined';
 import SendOutlinedIcon from '@material-ui/icons/SendOutlined';
 import ShareOutlinedIcon from '@material-ui/icons/ShareOutlined';
+
+
 const Post = ({ name, description, message, photoUrl }) => {
   return (
     <div className="post">
